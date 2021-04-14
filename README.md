@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinacloyd)](https://github.com/katrinacloyd/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=katrinacloyd&title_color=862041&icon_color=ae1a56&text_color=8c8279&bg_color=ffffff&show_icons=true">
+  <img align="https://github-readme-stats.vercel.app/api?username=katrinacloyd&title_color=862041&icon_color=ae1a56&text_color=8c8279&bg_color=ffffff&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=katrinacloyd">
+  <img align="center" src="https://github.com/katrinacloyd/github-readme-stats" />
 </a>
