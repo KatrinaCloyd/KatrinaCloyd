@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Katrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinacloyd&show_icons=true&theme=merko)
+![Katrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=katrinacloyd&show_icons=true&theme=buefy)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinacloyd)](https://github.com/katrinacloyd/github-readme-stats)
