@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img align="" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=katrinacloyd&title_color=862041&icon_color=ae1a56&text_color=8c8279&bg_color=ffffff&show_icons=true&count_private=true" />
-  <img align="" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katrinacloyd&show_icons=true&title_color=862041&icon_color=ae1a56&text_color=8c8279&bg_color=ffffff&show_icons=true" />
+  <img align="" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katrinacloyd&show_icons=true&title_color=862041&icon_color=ae1a56&text_color=8c8279&bg_color=ffffff&show_icons=true&count_private=true" />
 </div>
